@@ -6,7 +6,7 @@ My name is Mauricio and I’m a passionate Full Stack Developer.
 
 - :computer: My main tech stack is **ReactJS**, **React Native** and **NodeJS**.
 
-- :heart: I love to develop meaningful interactions to the user and ensure best possible performance on all platforms.
+- :heart: I love to develop meaningful interactions for the users and ensure best possible performance on all platforms.
 
 - :iphone: I also have a huge experience developing components for shared use in workspaces and multiple projects.
 
@@ -14,7 +14,7 @@ My name is Mauricio and I’m a passionate Full Stack Developer.
 
 - :eyeglasses: I am mainly focused in: React.js, React Native and Node.js
 
-- :factory: other relevant skills include: **Javascript**, **Typescript**, Jest, Enzyme, TDD, HTML5/CSS3, Redux, Redux Saga, Styled Components, Ruby on Rails, C#, MySQL, Postgres, JSON/REST, Git/SVN. 
+- :factory: other relevant skills include: **Javascript**, **Typescript**, Jest, Enzyme, Storybook, TDD, HTML5/CSS3, Redux, Redux Saga, Styled Components, Ruby on Rails, C#, MySQL, Postgres, JSON/REST, Git/SVN. 
 
 ### 📫 How to reach me:
 
