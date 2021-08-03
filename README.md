@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Mauricio and I’m a passionate Full Stack Developer.
+My name is Mauricio and I’m a Frontend Engineer.
 
 ### :man: About me 
 
